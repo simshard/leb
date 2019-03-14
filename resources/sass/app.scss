@@ -1,0 +1,30 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito'); // Variables
+@import 'variables'; // Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.navbar-laravel {
+    background-color: #c3d3c3;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+
+.dropdown-item:hover, .dropdown-item:focus {
+	background-color: #c3d3c3;
+}
+.filterbox{
+
+  border:1px solid #c3c3c3;
+  padding:4px;
+  width:100%;
+  margin:8px auto;
+}
+
+.projectprop {
+    background-color: #999;
+}
+
+.box{
+  padding:8px 4px;
+  border:1px solid #c3c3c3;
+}
